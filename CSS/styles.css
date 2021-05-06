@@ -1,0 +1,13 @@
+hr{
+    size: 2;
+    color: black;
+    border: 10;
+}
+
+body{
+    background-color: beige;
+}
+
+img{
+    border-radius: 100%;
+}
